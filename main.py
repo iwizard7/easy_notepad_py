@@ -33,7 +33,7 @@ def set_dark_theme():
     text_box.config(bg='black', fg='white')
 
 root = tk.Tk()
-root.title("Простой блокнот")
+root.title("Symple notepad")
 
 menu_bar = tk.Menu(root)
 
